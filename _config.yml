@@ -17,20 +17,20 @@ slogan: 'PhD student in Cosmology at the University of Cambridge'
 description: '»Leah Bigwood« is a PhD student at Cambridge, working at the intersection of cosmology and galaxy formation.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Built upon the theme developed by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>: <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: leah
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://leahbigwoodastro.github.io'
-baseurl: '/Home'
+baseurl: '/home'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+improve_content: https://github.com/leahbigwood/leahbigwoodastro.github.io/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -38,7 +38,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://phlow.github.io/feeling-responsive/images/'
+urlimg: 'https://leahbigwoodastro.github.io/feeling-responsive/images/'
 
 
 # Logo size is 600x80 pixels
